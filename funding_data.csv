@@ -1,0 +1,110 @@
+state,region,art_form,art_type,funding_amount,year
+Andhra Pradesh,South,Yakshagana,Theater,153,2022
+Andhra Pradesh,South,Kantha,Embroidery,131,2020
+Andhra Pradesh,South,Carnatic,Music,142,2024
+Andhra Pradesh,South,Bell Metal Craft,Metalwork,77,2022
+Arunachal Pradesh,Northeast,Bronze Casting,Sculpture,183,2022
+Arunachal Pradesh,Northeast,Ghoomar,Dance,124,2022
+Arunachal Pradesh,Northeast,Blue Pottery,Pottery,43,2020
+Arunachal Pradesh,Northeast,Gond,Painting,78,2020
+Arunachal Pradesh,Northeast,Jatra,Theater,153,2023
+Assam,Northeast,Rogan,Textile Art,148,2024
+Assam,Northeast,Carnatic,Music,37,2022
+Bihar,East,Bell Metal Craft,Metalwork,84,2022
+Bihar,East,Nautanki,Theater,196,2022
+Bihar,East,Wood Carving,Sculpture,179,2023
+Bihar,East,Kantha,Embroidery,115,2022
+Bihar,East,Carnatic,Music,125,2021
+Chhattisgarh,Central,Nautanki,Theater,45,2023
+Chhattisgarh,Central,Bronze Casting,Sculpture,90,2022
+Goa,West,Bharatanatyam,Dance,162,2023
+Goa,West,Pattachitra,Painting,179,2020
+Goa,West,Folk Music,Music,163,2024
+Goa,West,Clay Modeling,Sculpture,143,2023
+Goa,West,Kantha,Embroidery,147,2024
+Gujarat,West,Nautanki,Theater,93,2020
+Gujarat,West,Bell Metal Craft,Metalwork,61,2023
+Gujarat,West,Chikankari,Embroidery,48,2022
+Haryana,North,Nautanki,Theater,100,2021
+Haryana,North,Meenakari,Metalwork,25,2020
+Himachal Pradesh,North,Chikankari,Embroidery,126,2020
+Himachal Pradesh,North,Gond,Painting,174,2020
+Himachal Pradesh,North,Lavani,Dance,143,2020
+Jharkhand,East,Madhubani,Painting,64,2023
+Jharkhand,East,Carnatic,Music,171,2023
+Jharkhand,East,Odissi,Dance,112,2022
+Jharkhand,East,Khavda Pottery,Pottery,147,2020
+Jharkhand,East,Kantha,Embroidery,62,2024
+Karnataka,South,Madhubani,Painting,119,2021
+Karnataka,South,Khavda Pottery,Pottery,80,2022
+Karnataka,South,Kantha,Embroidery,38,2023
+Karnataka,South,Clay Modeling,Sculpture,26,2023
+Kerala,South,Bell Metal Craft,Metalwork,87,2024
+Kerala,South,Zardozi,Embroidery,109,2020
+Kerala,South,Lavani,Dance,38,2023
+Kerala,South,Blue Pottery,Pottery,39,2022
+Kerala,South,Bronze Casting,Sculpture,180,2021
+Madhya Pradesh,Central,Stone Carving,Sculpture,181,2020
+Madhya Pradesh,Central,Tanjore,Painting,95,2020
+Madhya Pradesh,Central,Jatra,Theater,146,2022
+Madhya Pradesh,Central,Folk Music,Music,181,2020
+Maharashtra,West,Clay Modeling,Sculpture,93,2021
+Maharashtra,West,Yakshagana,Theater,156,2023
+Maharashtra,West,Bell Metal Craft,Metalwork,43,2022
+Maharashtra,West,Folk Music,Music,93,2024
+Manipur,Northeast,Ramleela,Theater,192,2022
+Manipur,Northeast,Zardozi,Embroidery,113,2021
+Manipur,Northeast,Hindustani,Music,157,2022
+Manipur,Northeast,Lavani,Dance,175,2020
+Manipur,Northeast,Black Pottery,Pottery,138,2022
+Meghalaya,Northeast,Nautanki,Theater,25,2023
+Meghalaya,Northeast,Phad,Painting,134,2022
+Meghalaya,Northeast,Kalamkari,Textile Art,135,2020
+Meghalaya,Northeast,Clay Modeling,Sculpture,106,2023
+Mizoram,Northeast,Pashmina,Textile Art,94,2023
+Mizoram,Northeast,Bhangra,Dance,68,2023
+Mizoram,Northeast,Jatra,Theater,58,2023
+Mizoram,Northeast,Thangka,Painting,137,2021
+Nagaland,Northeast,Terracotta,Pottery,121,2024
+Nagaland,Northeast,Madhubani,Painting,134,2024
+Nagaland,Northeast,Phulkari,Embroidery,178,2021
+Nagaland,Northeast,Rogan,Textile Art,65,2023
+Odisha,East,Nautanki,Theater,30,2024
+Odisha,East,Folk Music,Music,26,2020
+Odisha,East,Rogan,Textile Art,127,2020
+Odisha,East,Khavda Pottery,Pottery,95,2024
+Punjab,North,Warli,Painting,21,2021
+Punjab,North,Pashmina,Textile Art,38,2021
+Punjab,North,Khavda Pottery,Pottery,49,2022
+Rajasthan,North,Rogan,Textile Art,107,2024
+Rajasthan,North,Bronze Casting,Sculpture,198,2021
+Sikkim,Northeast,Meenakari,Metalwork,198,2023
+Sikkim,Northeast,Blue Pottery,Pottery,37,2020
+Sikkim,Northeast,Sattriya,Dance,48,2023
+Sikkim,Northeast,Wood Carving,Sculpture,177,2022
+Sikkim,Northeast,Rogan,Textile Art,155,2021
+Tamil Nadu,South,Terracotta,Pottery,199,2022
+Tamil Nadu,South,Kalamkari,Textile Art,58,2021
+Telangana,South,Blue Pottery,Pottery,167,2023
+Telangana,South,Pashmina,Textile Art,178,2024
+Telangana,South,Ghoomar,Dance,57,2023
+Tripura,Northeast,Pattachitra,Painting,49,2020
+Tripura,Northeast,Nautanki,Theater,41,2021
+Tripura,Northeast,Blue Pottery,Pottery,46,2023
+Uttar Pradesh,North,Kantha,Embroidery,45,2024
+Uttar Pradesh,North,Ramleela,Theater,100,2022
+Uttar Pradesh,North,Sattriya,Dance,97,2022
+Uttarakhand,North,Bell Metal Craft,Metalwork,81,2024
+Uttarakhand,North,Gond,Painting,109,2020
+West Bengal,East,Blue Pottery,Pottery,38,2021
+West Bengal,East,Rogan,Textile Art,81,2022
+West Bengal,East,Tanjore,Painting,84,2022
+Delhi,North,Blue Pottery,Pottery,172,2022
+Delhi,North,Yakshagana,Theater,48,2021
+Delhi,North,Bell Metal Craft,Metalwork,167,2021
+Delhi,North,Tribal Music,Music,132,2021
+Delhi,North,Zardozi,Embroidery,196,2020
+Jammu and Kashmir,North,Chikankari,Embroidery,179,2021
+Jammu and Kashmir,North,Meenakari,Metalwork,111,2020
+Jammu and Kashmir,North,Kuchipudi,Dance,60,2021
+Jammu and Kashmir,North,Bandhani,Textile Art,61,2024

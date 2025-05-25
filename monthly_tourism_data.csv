@@ -1,0 +1,721 @@
+state,region,year,month,month_num,visitors
+Andhra Pradesh,South,2023,Jan,1,16822
+Andhra Pradesh,South,2023,Feb,2,12435
+Andhra Pradesh,South,2023,Mar,3,8045
+Andhra Pradesh,South,2023,Apr,4,8427
+Andhra Pradesh,South,2023,May,5,8433
+Andhra Pradesh,South,2023,Jun,6,12494
+Andhra Pradesh,South,2023,Jul,7,15878
+Andhra Pradesh,South,2023,Aug,8,15373
+Andhra Pradesh,South,2023,Sep,9,12662
+Andhra Pradesh,South,2023,Oct,10,13138
+Andhra Pradesh,South,2023,Nov,11,17448
+Andhra Pradesh,South,2023,Dec,12,16511
+Andhra Pradesh,South,2024,Jan,1,19654
+Andhra Pradesh,South,2024,Feb,2,12509
+Andhra Pradesh,South,2024,Mar,3,5872
+Andhra Pradesh,South,2024,Apr,4,11200
+Andhra Pradesh,South,2024,May,5,9864
+Andhra Pradesh,South,2024,Jun,6,12013
+Andhra Pradesh,South,2024,Jul,7,16015
+Andhra Pradesh,South,2024,Aug,8,16695
+Andhra Pradesh,South,2024,Sep,9,13956
+Andhra Pradesh,South,2024,Oct,10,13523
+Andhra Pradesh,South,2024,Nov,11,15460
+Andhra Pradesh,South,2024,Dec,12,20797
+Arunachal Pradesh,Northeast,2023,Jan,1,29300
+Arunachal Pradesh,Northeast,2023,Feb,2,22248
+Arunachal Pradesh,Northeast,2023,Mar,3,41476
+Arunachal Pradesh,Northeast,2023,Apr,4,48899
+Arunachal Pradesh,Northeast,2023,May,5,42674
+Arunachal Pradesh,Northeast,2023,Jun,6,35674
+Arunachal Pradesh,Northeast,2023,Jul,7,18278
+Arunachal Pradesh,Northeast,2023,Aug,8,20213
+Arunachal Pradesh,Northeast,2023,Sep,9,37300
+Arunachal Pradesh,Northeast,2023,Oct,10,45535
+Arunachal Pradesh,Northeast,2023,Nov,11,51606
+Arunachal Pradesh,Northeast,2023,Dec,12,30194
+Arunachal Pradesh,Northeast,2024,Jan,1,18678
+Arunachal Pradesh,Northeast,2024,Feb,2,29549
+Arunachal Pradesh,Northeast,2024,Mar,3,42339
+Arunachal Pradesh,Northeast,2024,Apr,4,54259
+Arunachal Pradesh,Northeast,2024,May,5,52230
+Arunachal Pradesh,Northeast,2024,Jun,6,41644
+Arunachal Pradesh,Northeast,2024,Jul,7,21014
+Arunachal Pradesh,Northeast,2024,Aug,8,19057
+Arunachal Pradesh,Northeast,2024,Sep,9,42938
+Arunachal Pradesh,Northeast,2024,Oct,10,46969
+Arunachal Pradesh,Northeast,2024,Nov,11,56266
+Arunachal Pradesh,Northeast,2024,Dec,12,36390
+Assam,Northeast,2023,Jan,1,88867
+Assam,Northeast,2023,Feb,2,102503
+Assam,Northeast,2023,Mar,3,167448
+Assam,Northeast,2023,Apr,4,162665
+Assam,Northeast,2023,May,5,167790
+Assam,Northeast,2023,Jun,6,153660
+Assam,Northeast,2023,Jul,7,95064
+Assam,Northeast,2023,Aug,8,90812
+Assam,Northeast,2023,Sep,9,167676
+Assam,Northeast,2023,Oct,10,178855
+Assam,Northeast,2023,Nov,11,190128
+Assam,Northeast,2023,Dec,12,159231
+Assam,Northeast,2024,Jan,1,94121
+Assam,Northeast,2024,Feb,2,89979
+Assam,Northeast,2024,Mar,3,175985
+Assam,Northeast,2024,Apr,4,196743
+Assam,Northeast,2024,May,5,286066
+Assam,Northeast,2024,Jun,6,161358
+Assam,Northeast,2024,Jul,7,94818
+Assam,Northeast,2024,Aug,8,86766
+Assam,Northeast,2024,Sep,9,177096
+Assam,Northeast,2024,Oct,10,273829
+Assam,Northeast,2024,Nov,11,236269
+Assam,Northeast,2024,Dec,12,184341
+Bihar,East,2023,Jan,1,367788
+Bihar,East,2023,Feb,2,208328
+Bihar,East,2023,Mar,3,178299
+Bihar,East,2023,Apr,4,129981
+Bihar,East,2023,May,5,106040
+Bihar,East,2023,Jun,6,102128
+Bihar,East,2023,Jul,7,119903
+Bihar,East,2023,Aug,8,162338
+Bihar,East,2023,Sep,9,212022
+Bihar,East,2023,Oct,10,352970
+Bihar,East,2023,Nov,11,266460
+Bihar,East,2023,Dec,12,332319
+Bihar,East,2024,Jan,1,370850
+Bihar,East,2024,Feb,2,256128
+Bihar,East,2024,Mar,3,171399
+Bihar,East,2024,Apr,4,127207
+Bihar,East,2024,May,5,163254
+Bihar,East,2024,Jun,6,132194
+Bihar,East,2024,Jul,7,124889
+Bihar,East,2024,Aug,8,161384
+Bihar,East,2024,Sep,9,316406
+Bihar,East,2024,Oct,10,391136
+Bihar,East,2024,Nov,11,343861
+Bihar,East,2024,Dec,12,373415
+Chhattisgarh,Central,2023,Jan,1,164257
+Chhattisgarh,Central,2023,Feb,2,178174
+Chhattisgarh,Central,2023,Mar,3,174764
+Chhattisgarh,Central,2023,Apr,4,140479
+Chhattisgarh,Central,2023,May,5,109907
+Chhattisgarh,Central,2023,Jun,6,84201
+Chhattisgarh,Central,2023,Jul,7,108758
+Chhattisgarh,Central,2023,Aug,8,87988
+Chhattisgarh,Central,2023,Sep,9,120821
+Chhattisgarh,Central,2023,Oct,10,172710
+Chhattisgarh,Central,2023,Nov,11,194417
+Chhattisgarh,Central,2023,Dec,12,129985
+Chhattisgarh,Central,2024,Jan,1,161320
+Chhattisgarh,Central,2024,Feb,2,197614
+Chhattisgarh,Central,2024,Mar,3,205375
+Chhattisgarh,Central,2024,Apr,4,159430
+Chhattisgarh,Central,2024,May,5,104102
+Chhattisgarh,Central,2024,Jun,6,75655
+Chhattisgarh,Central,2024,Jul,7,104887
+Chhattisgarh,Central,2024,Aug,8,101819
+Chhattisgarh,Central,2024,Sep,9,143200
+Chhattisgarh,Central,2024,Oct,10,222854
+Chhattisgarh,Central,2024,Nov,11,189763
+Chhattisgarh,Central,2024,Dec,12,145459
+Goa,West,2023,Jan,1,320589
+Goa,West,2023,Feb,2,330156
+Goa,West,2023,Mar,3,309190
+Goa,West,2023,Apr,4,133750
+Goa,West,2023,May,5,155657
+Goa,West,2023,Jun,6,153099
+Goa,West,2023,Jul,7,126606
+Goa,West,2023,Aug,8,120867
+Goa,West,2023,Sep,9,204940
+Goa,West,2023,Oct,10,257677
+Goa,West,2023,Nov,11,309930
+Goa,West,2023,Dec,12,394403
+Goa,West,2024,Jan,1,349406
+Goa,West,2024,Feb,2,463674
+Goa,West,2024,Mar,3,245574
+Goa,West,2024,Apr,4,182623
+Goa,West,2024,May,5,166196
+Goa,West,2024,Jun,6,136933
+Goa,West,2024,Jul,7,200225
+Goa,West,2024,Aug,8,201625
+Goa,West,2024,Sep,9,166472
+Goa,West,2024,Oct,10,277426
+Goa,West,2024,Nov,11,314402
+Goa,West,2024,Dec,12,336658
+Gujarat,West,2023,Jan,1,61738
+Gujarat,West,2023,Feb,2,61374
+Gujarat,West,2023,Mar,3,57262
+Gujarat,West,2023,Apr,4,34974
+Gujarat,West,2023,May,5,34401
+Gujarat,West,2023,Jun,6,30060
+Gujarat,West,2023,Jul,7,36833
+Gujarat,West,2023,Aug,8,38601
+Gujarat,West,2023,Sep,9,29371
+Gujarat,West,2023,Oct,10,48421
+Gujarat,West,2023,Nov,11,87560
+Gujarat,West,2023,Dec,12,70159
+Gujarat,West,2024,Jan,1,78359
+Gujarat,West,2024,Feb,2,93470
+Gujarat,West,2024,Mar,3,63450
+Gujarat,West,2024,Apr,4,43069
+Gujarat,West,2024,May,5,47794
+Gujarat,West,2024,Jun,6,44229
+Gujarat,West,2024,Jul,7,46447
+Gujarat,West,2024,Aug,8,43790
+Gujarat,West,2024,Sep,9,46779
+Gujarat,West,2024,Oct,10,74554
+Gujarat,West,2024,Nov,11,87779
+Gujarat,West,2024,Dec,12,74298
+Haryana,North,2023,Jan,1,145230
+Haryana,North,2023,Feb,2,124872
+Haryana,North,2023,Mar,3,126692
+Haryana,North,2023,Apr,4,111228
+Haryana,North,2023,May,5,103612
+Haryana,North,2023,Jun,6,66025
+Haryana,North,2023,Jul,7,71281
+Haryana,North,2023,Aug,8,69302
+Haryana,North,2023,Sep,9,74821
+Haryana,North,2023,Oct,10,54860
+Haryana,North,2023,Nov,11,100822
+Haryana,North,2023,Dec,12,129031
+Haryana,North,2024,Jan,1,152189
+Haryana,North,2024,Feb,2,156124
+Haryana,North,2024,Mar,3,128168
+Haryana,North,2024,Apr,4,150850
+Haryana,North,2024,May,5,118777
+Haryana,North,2024,Jun,6,66168
+Haryana,North,2024,Jul,7,72800
+Haryana,North,2024,Aug,8,91357
+Haryana,North,2024,Sep,9,74298
+Haryana,North,2024,Oct,10,76374
+Haryana,North,2024,Nov,11,121149
+Haryana,North,2024,Dec,12,159141
+Himachal Pradesh,North,2023,Jan,1,120893
+Himachal Pradesh,North,2023,Feb,2,137050
+Himachal Pradesh,North,2023,Mar,3,112377
+Himachal Pradesh,North,2023,Apr,4,128020
+Himachal Pradesh,North,2023,May,5,108622
+Himachal Pradesh,North,2023,Jun,6,39906
+Himachal Pradesh,North,2023,Jul,7,54264
+Himachal Pradesh,North,2023,Aug,8,63760
+Himachal Pradesh,North,2023,Sep,9,50177
+Himachal Pradesh,North,2023,Oct,10,67366
+Himachal Pradesh,North,2023,Nov,11,104983
+Himachal Pradesh,North,2023,Dec,12,117164
+Himachal Pradesh,North,2024,Jan,1,119420
+Himachal Pradesh,North,2024,Feb,2,144270
+Himachal Pradesh,North,2024,Mar,3,147342
+Himachal Pradesh,North,2024,Apr,4,132338
+Himachal Pradesh,North,2024,May,5,105488
+Himachal Pradesh,North,2024,Jun,6,82750
+Himachal Pradesh,North,2024,Jul,7,75399
+Himachal Pradesh,North,2024,Aug,8,64788
+Himachal Pradesh,North,2024,Sep,9,76079
+Himachal Pradesh,North,2024,Oct,10,84139
+Himachal Pradesh,North,2024,Nov,11,97471
+Himachal Pradesh,North,2024,Dec,12,149525
+Jharkhand,East,2023,Jan,1,178448
+Jharkhand,East,2023,Feb,2,132575
+Jharkhand,East,2023,Mar,3,96397
+Jharkhand,East,2023,Apr,4,63743
+Jharkhand,East,2023,May,5,84007
+Jharkhand,East,2023,Jun,6,83523
+Jharkhand,East,2023,Jul,7,94154
+Jharkhand,East,2023,Aug,8,68601
+Jharkhand,East,2023,Sep,9,129260
+Jharkhand,East,2023,Oct,10,141606
+Jharkhand,East,2023,Nov,11,145524
+Jharkhand,East,2023,Dec,12,166375
+Jharkhand,East,2024,Jan,1,168376
+Jharkhand,East,2024,Feb,2,160660
+Jharkhand,East,2024,Mar,3,85095
+Jharkhand,East,2024,Apr,4,85764
+Jharkhand,East,2024,May,5,76113
+Jharkhand,East,2024,Jun,6,95754
+Jharkhand,East,2024,Jul,7,109043
+Jharkhand,East,2024,Aug,8,99770
+Jharkhand,East,2024,Sep,9,142313
+Jharkhand,East,2024,Oct,10,230329
+Jharkhand,East,2024,Nov,11,171194
+Jharkhand,East,2024,Dec,12,192974
+Karnataka,South,2023,Jan,1,322433
+Karnataka,South,2023,Feb,2,249350
+Karnataka,South,2023,Mar,3,170036
+Karnataka,South,2023,Apr,4,124529
+Karnataka,South,2023,May,5,193140
+Karnataka,South,2023,Jun,6,273428
+Karnataka,South,2023,Jul,7,338340
+Karnataka,South,2023,Aug,8,379573
+Karnataka,South,2023,Sep,9,274538
+Karnataka,South,2023,Oct,10,281861
+Karnataka,South,2023,Nov,11,338592
+Karnataka,South,2023,Dec,12,354715
+Karnataka,South,2024,Jan,1,412448
+Karnataka,South,2024,Feb,2,319628
+Karnataka,South,2024,Mar,3,205227
+Karnataka,South,2024,Apr,4,222357
+Karnataka,South,2024,May,5,232096
+Karnataka,South,2024,Jun,6,314924
+Karnataka,South,2024,Jul,7,440066
+Karnataka,South,2024,Aug,8,402201
+Karnataka,South,2024,Sep,9,330871
+Karnataka,South,2024,Oct,10,388950
+Karnataka,South,2024,Nov,11,384233
+Karnataka,South,2024,Dec,12,350973
+Kerala,South,2023,Jan,1,27289
+Kerala,South,2023,Feb,2,17999
+Kerala,South,2023,Mar,3,11560
+Kerala,South,2023,Apr,4,14037
+Kerala,South,2023,May,5,16198
+Kerala,South,2023,Jun,6,18199
+Kerala,South,2023,Jul,7,26596
+Kerala,South,2023,Aug,8,30594
+Kerala,South,2023,Sep,9,22738
+Kerala,South,2023,Oct,10,24183
+Kerala,South,2023,Nov,11,25099
+Kerala,South,2023,Dec,12,22344
+Kerala,South,2024,Jan,1,31217
+Kerala,South,2024,Feb,2,23469
+Kerala,South,2024,Mar,3,13650
+Kerala,South,2024,Apr,4,15893
+Kerala,South,2024,May,5,14239
+Kerala,South,2024,Jun,6,20624
+Kerala,South,2024,Jul,7,33024
+Kerala,South,2024,Aug,8,36170
+Kerala,South,2024,Sep,9,23516
+Kerala,South,2024,Oct,10,19614
+Kerala,South,2024,Nov,11,37335
+Kerala,South,2024,Dec,12,31342
+Madhya Pradesh,Central,2023,Jan,1,245166
+Madhya Pradesh,Central,2023,Feb,2,294757
+Madhya Pradesh,Central,2023,Mar,3,254744
+Madhya Pradesh,Central,2023,Apr,4,227276
+Madhya Pradesh,Central,2023,May,5,150880
+Madhya Pradesh,Central,2023,Jun,6,141677
+Madhya Pradesh,Central,2023,Jul,7,132057
+Madhya Pradesh,Central,2023,Aug,8,175672
+Madhya Pradesh,Central,2023,Sep,9,261657
+Madhya Pradesh,Central,2023,Oct,10,344965
+Madhya Pradesh,Central,2023,Nov,11,352752
+Madhya Pradesh,Central,2023,Dec,12,214005
+Madhya Pradesh,Central,2024,Jan,1,301795
+Madhya Pradesh,Central,2024,Feb,2,368720
+Madhya Pradesh,Central,2024,Mar,3,358566
+Madhya Pradesh,Central,2024,Apr,4,286489
+Madhya Pradesh,Central,2024,May,5,216582
+Madhya Pradesh,Central,2024,Jun,6,175071
+Madhya Pradesh,Central,2024,Jul,7,211269
+Madhya Pradesh,Central,2024,Aug,8,204920
+Madhya Pradesh,Central,2024,Sep,9,286844
+Madhya Pradesh,Central,2024,Oct,10,352751
+Madhya Pradesh,Central,2024,Nov,11,342092
+Madhya Pradesh,Central,2024,Dec,12,302523
+Maharashtra,West,2023,Jan,1,401881
+Maharashtra,West,2023,Feb,2,324607
+Maharashtra,West,2023,Mar,3,282878
+Maharashtra,West,2023,Apr,4,181175
+Maharashtra,West,2023,May,5,153876
+Maharashtra,West,2023,Jun,6,207416
+Maharashtra,West,2023,Jul,7,159902
+Maharashtra,West,2023,Aug,8,172501
+Maharashtra,West,2023,Sep,9,139637
+Maharashtra,West,2023,Oct,10,203403
+Maharashtra,West,2023,Nov,11,351499
+Maharashtra,West,2023,Dec,12,283184
+Maharashtra,West,2024,Jan,1,395361
+Maharashtra,West,2024,Feb,2,353129
+Maharashtra,West,2024,Mar,3,300477
+Maharashtra,West,2024,Apr,4,170937
+Maharashtra,West,2024,May,5,244367
+Maharashtra,West,2024,Jun,6,224828
+Maharashtra,West,2024,Jul,7,175744
+Maharashtra,West,2024,Aug,8,182133
+Maharashtra,West,2024,Sep,9,153671
+Maharashtra,West,2024,Oct,10,291652
+Maharashtra,West,2024,Nov,11,362843
+Maharashtra,West,2024,Dec,12,379509
+Manipur,Northeast,2023,Jan,1,260385
+Manipur,Northeast,2023,Feb,2,239990
+Manipur,Northeast,2023,Mar,3,318488
+Manipur,Northeast,2023,Apr,4,439085
+Manipur,Northeast,2023,May,5,461590
+Manipur,Northeast,2023,Jun,6,349392
+Manipur,Northeast,2023,Jul,7,174693
+Manipur,Northeast,2023,Aug,8,179096
+Manipur,Northeast,2023,Sep,9,303651
+Manipur,Northeast,2023,Oct,10,425592
+Manipur,Northeast,2023,Nov,11,420959
+Manipur,Northeast,2023,Dec,12,372847
+Manipur,Northeast,2024,Jan,1,264703
+Manipur,Northeast,2024,Feb,2,210575
+Manipur,Northeast,2024,Mar,3,406572
+Manipur,Northeast,2024,Apr,4,610260
+Manipur,Northeast,2024,May,5,528148
+Manipur,Northeast,2024,Jun,6,410107
+Manipur,Northeast,2024,Jul,7,305001
+Manipur,Northeast,2024,Aug,8,230455
+Manipur,Northeast,2024,Sep,9,421412
+Manipur,Northeast,2024,Oct,10,580892
+Manipur,Northeast,2024,Nov,11,446191
+Manipur,Northeast,2024,Dec,12,404780
+Meghalaya,Northeast,2023,Jan,1,187703
+Meghalaya,Northeast,2023,Feb,2,167752
+Meghalaya,Northeast,2023,Mar,3,242178
+Meghalaya,Northeast,2023,Apr,4,292723
+Meghalaya,Northeast,2023,May,5,276912
+Meghalaya,Northeast,2023,Jun,6,287077
+Meghalaya,Northeast,2023,Jul,7,109653
+Meghalaya,Northeast,2023,Aug,8,154089
+Meghalaya,Northeast,2023,Sep,9,233234
+Meghalaya,Northeast,2023,Oct,10,379496
+Meghalaya,Northeast,2023,Nov,11,375348
+Meghalaya,Northeast,2023,Dec,12,252141
+Meghalaya,Northeast,2024,Jan,1,200971
+Meghalaya,Northeast,2024,Feb,2,136139
+Meghalaya,Northeast,2024,Mar,3,258175
+Meghalaya,Northeast,2024,Apr,4,323237
+Meghalaya,Northeast,2024,May,5,389052
+Meghalaya,Northeast,2024,Jun,6,281443
+Meghalaya,Northeast,2024,Jul,7,177730
+Meghalaya,Northeast,2024,Aug,8,215859
+Meghalaya,Northeast,2024,Sep,9,255972
+Meghalaya,Northeast,2024,Oct,10,402825
+Meghalaya,Northeast,2024,Nov,11,417495
+Meghalaya,Northeast,2024,Dec,12,327263
+Mizoram,Northeast,2023,Jan,1,193235
+Mizoram,Northeast,2023,Feb,2,151444
+Mizoram,Northeast,2023,Mar,3,272527
+Mizoram,Northeast,2023,Apr,4,348352
+Mizoram,Northeast,2023,May,5,374517
+Mizoram,Northeast,2023,Jun,6,285069
+Mizoram,Northeast,2023,Jul,7,147201
+Mizoram,Northeast,2023,Aug,8,164062
+Mizoram,Northeast,2023,Sep,9,285108
+Mizoram,Northeast,2023,Oct,10,401649
+Mizoram,Northeast,2023,Nov,11,376179
+Mizoram,Northeast,2023,Dec,12,218525
+Mizoram,Northeast,2024,Jan,1,142644
+Mizoram,Northeast,2024,Feb,2,135092
+Mizoram,Northeast,2024,Mar,3,340935
+Mizoram,Northeast,2024,Apr,4,490602
+Mizoram,Northeast,2024,May,5,408234
+Mizoram,Northeast,2024,Jun,6,353162
+Mizoram,Northeast,2024,Jul,7,216022
+Mizoram,Northeast,2024,Aug,8,224606
+Mizoram,Northeast,2024,Sep,9,302987
+Mizoram,Northeast,2024,Oct,10,392637
+Mizoram,Northeast,2024,Nov,11,468539
+Mizoram,Northeast,2024,Dec,12,295359
+Nagaland,Northeast,2023,Jan,1,30555
+Nagaland,Northeast,2023,Feb,2,27820
+Nagaland,Northeast,2023,Mar,3,43378
+Nagaland,Northeast,2023,Apr,4,58444
+Nagaland,Northeast,2023,May,5,69831
+Nagaland,Northeast,2023,Jun,6,46497
+Nagaland,Northeast,2023,Jul,7,24161
+Nagaland,Northeast,2023,Aug,8,23253
+Nagaland,Northeast,2023,Sep,9,39217
+Nagaland,Northeast,2023,Oct,10,57245
+Nagaland,Northeast,2023,Nov,11,55744
+Nagaland,Northeast,2023,Dec,12,44233
+Nagaland,Northeast,2024,Jan,1,31382
+Nagaland,Northeast,2024,Feb,2,25606
+Nagaland,Northeast,2024,Mar,3,51264
+Nagaland,Northeast,2024,Apr,4,67332
+Nagaland,Northeast,2024,May,5,75657
+Nagaland,Northeast,2024,Jun,6,48566
+Nagaland,Northeast,2024,Jul,7,23306
+Nagaland,Northeast,2024,Aug,8,35927
+Nagaland,Northeast,2024,Sep,9,41224
+Nagaland,Northeast,2024,Oct,10,63277
+Nagaland,Northeast,2024,Nov,11,54696
+Nagaland,Northeast,2024,Dec,12,42090
+Odisha,East,2023,Jan,1,346486
+Odisha,East,2023,Feb,2,298657
+Odisha,East,2023,Mar,3,154864
+Odisha,East,2023,Apr,4,241493
+Odisha,East,2023,May,5,143518
+Odisha,East,2023,Jun,6,140684
+Odisha,East,2023,Jul,7,234451
+Odisha,East,2023,Aug,8,243794
+Odisha,East,2023,Sep,9,288881
+Odisha,East,2023,Oct,10,505965
+Odisha,East,2023,Nov,11,394260
+Odisha,East,2023,Dec,12,374328
+Odisha,East,2024,Jan,1,447045
+Odisha,East,2024,Feb,2,299692
+Odisha,East,2024,Mar,3,265661
+Odisha,East,2024,Apr,4,261712
+Odisha,East,2024,May,5,170693
+Odisha,East,2024,Jun,6,211444
+Odisha,East,2024,Jul,7,150505
+Odisha,East,2024,Aug,8,233350
+Odisha,East,2024,Sep,9,341300
+Odisha,East,2024,Oct,10,422407
+Odisha,East,2024,Nov,11,515295
+Odisha,East,2024,Dec,12,491499
+Punjab,North,2023,Jan,1,366594
+Punjab,North,2023,Feb,2,446082
+Punjab,North,2023,Mar,3,393191
+Punjab,North,2023,Apr,4,472235
+Punjab,North,2023,May,5,342616
+Punjab,North,2023,Jun,6,140613
+Punjab,North,2023,Jul,7,186835
+Punjab,North,2023,Aug,8,220596
+Punjab,North,2023,Sep,9,195111
+Punjab,North,2023,Oct,10,140378
+Punjab,North,2023,Nov,11,331296
+Punjab,North,2023,Dec,12,419805
+Punjab,North,2024,Jan,1,459172
+Punjab,North,2024,Feb,2,427132
+Punjab,North,2024,Mar,3,425798
+Punjab,North,2024,Apr,4,558140
+Punjab,North,2024,May,5,375805
+Punjab,North,2024,Jun,6,236415
+Punjab,North,2024,Jul,7,246691
+Punjab,North,2024,Aug,8,247747
+Punjab,North,2024,Sep,9,164811
+Punjab,North,2024,Oct,10,225102
+Punjab,North,2024,Nov,11,317266
+Punjab,North,2024,Dec,12,371983
+Rajasthan,North,2023,Jan,1,148030
+Rajasthan,North,2023,Feb,2,122722
+Rajasthan,North,2023,Mar,3,122688
+Rajasthan,North,2023,Apr,4,135234
+Rajasthan,North,2023,May,5,96631
+Rajasthan,North,2023,Jun,6,51425
+Rajasthan,North,2023,Jul,7,65599
+Rajasthan,North,2023,Aug,8,63245
+Rajasthan,North,2023,Sep,9,74098
+Rajasthan,North,2023,Oct,10,46016
+Rajasthan,North,2023,Nov,11,101287
+Rajasthan,North,2023,Dec,12,109117
+Rajasthan,North,2024,Jan,1,151444
+Rajasthan,North,2024,Feb,2,147462
+Rajasthan,North,2024,Mar,3,125725
+Rajasthan,North,2024,Apr,4,181489
+Rajasthan,North,2024,May,5,100684
+Rajasthan,North,2024,Jun,6,60283
+Rajasthan,North,2024,Jul,7,71986
+Rajasthan,North,2024,Aug,8,75772
+Rajasthan,North,2024,Sep,9,73416
+Rajasthan,North,2024,Oct,10,70118
+Rajasthan,North,2024,Nov,11,101453
+Rajasthan,North,2024,Dec,12,140747
+Sikkim,Northeast,2023,Jan,1,131724
+Sikkim,Northeast,2023,Feb,2,105362
+Sikkim,Northeast,2023,Mar,3,198907
+Sikkim,Northeast,2023,Apr,4,262200
+Sikkim,Northeast,2023,May,5,279879
+Sikkim,Northeast,2023,Jun,6,197841
+Sikkim,Northeast,2023,Jul,7,158211
+Sikkim,Northeast,2023,Aug,8,129626
+Sikkim,Northeast,2023,Sep,9,218481
+Sikkim,Northeast,2023,Oct,10,246788
+Sikkim,Northeast,2023,Nov,11,299583
+Sikkim,Northeast,2023,Dec,12,198210
+Sikkim,Northeast,2024,Jan,1,140644
+Sikkim,Northeast,2024,Feb,2,151023
+Sikkim,Northeast,2024,Mar,3,199674
+Sikkim,Northeast,2024,Apr,4,273601
+Sikkim,Northeast,2024,May,5,259331
+Sikkim,Northeast,2024,Jun,6,247140
+Sikkim,Northeast,2024,Jul,7,165024
+Sikkim,Northeast,2024,Aug,8,128800
+Sikkim,Northeast,2024,Sep,9,224080
+Sikkim,Northeast,2024,Oct,10,340228
+Sikkim,Northeast,2024,Nov,11,272628
+Sikkim,Northeast,2024,Dec,12,227411
+Tamil Nadu,South,2023,Jan,1,14194
+Tamil Nadu,South,2023,Feb,2,11600
+Tamil Nadu,South,2023,Mar,3,5471
+Tamil Nadu,South,2023,Apr,4,5914
+Tamil Nadu,South,2023,May,5,6486
+Tamil Nadu,South,2023,Jun,6,11436
+Tamil Nadu,South,2023,Jul,7,16329
+Tamil Nadu,South,2023,Aug,8,14376
+Tamil Nadu,South,2023,Sep,9,10422
+Tamil Nadu,South,2023,Oct,10,9944
+Tamil Nadu,South,2023,Nov,11,15337
+Tamil Nadu,South,2023,Dec,12,15012
+Tamil Nadu,South,2024,Jan,1,16062
+Tamil Nadu,South,2024,Feb,2,12075
+Tamil Nadu,South,2024,Mar,3,7978
+Tamil Nadu,South,2024,Apr,4,8409
+Tamil Nadu,South,2024,May,5,10016
+Tamil Nadu,South,2024,Jun,6,13101
+Tamil Nadu,South,2024,Jul,7,17349
+Tamil Nadu,South,2024,Aug,8,18663
+Tamil Nadu,South,2024,Sep,9,14205
+Tamil Nadu,South,2024,Oct,10,12918
+Tamil Nadu,South,2024,Nov,11,16198
+Tamil Nadu,South,2024,Dec,12,18494
+Telangana,South,2023,Jan,1,210083
+Telangana,South,2023,Feb,2,188655
+Telangana,South,2023,Mar,3,130505
+Telangana,South,2023,Apr,4,89320
+Telangana,South,2023,May,5,130378
+Telangana,South,2023,Jun,6,145052
+Telangana,South,2023,Jul,7,249595
+Telangana,South,2023,Aug,8,224550
+Telangana,South,2023,Sep,9,184651
+Telangana,South,2023,Oct,10,175934
+Telangana,South,2023,Nov,11,242139
+Telangana,South,2023,Dec,12,274082
+Telangana,South,2024,Jan,1,288741
+Telangana,South,2024,Feb,2,190296
+Telangana,South,2024,Mar,3,118473
+Telangana,South,2024,Apr,4,140451
+Telangana,South,2024,May,5,125014
+Telangana,South,2024,Jun,6,216227
+Telangana,South,2024,Jul,7,243625
+Telangana,South,2024,Aug,8,293380
+Telangana,South,2024,Sep,9,227266
+Telangana,South,2024,Oct,10,197878
+Telangana,South,2024,Nov,11,262478
+Telangana,South,2024,Dec,12,279431
+Tripura,Northeast,2023,Jan,1,201700
+Tripura,Northeast,2023,Feb,2,224919
+Tripura,Northeast,2023,Mar,3,258447
+Tripura,Northeast,2023,Apr,4,479544
+Tripura,Northeast,2023,May,5,352728
+Tripura,Northeast,2023,Jun,6,309839
+Tripura,Northeast,2023,Jul,7,173330
+Tripura,Northeast,2023,Aug,8,147258
+Tripura,Northeast,2023,Sep,9,283572
+Tripura,Northeast,2023,Oct,10,341845
+Tripura,Northeast,2023,Nov,11,389980
+Tripura,Northeast,2023,Dec,12,310098
+Tripura,Northeast,2024,Jan,1,239399
+Tripura,Northeast,2024,Feb,2,233450
+Tripura,Northeast,2024,Mar,3,340630
+Tripura,Northeast,2024,Apr,4,452160
+Tripura,Northeast,2024,May,5,551356
+Tripura,Northeast,2024,Jun,6,327468
+Tripura,Northeast,2024,Jul,7,155044
+Tripura,Northeast,2024,Aug,8,264777
+Tripura,Northeast,2024,Sep,9,379125
+Tripura,Northeast,2024,Oct,10,529764
+Tripura,Northeast,2024,Nov,11,536670
+Tripura,Northeast,2024,Dec,12,392497
+Uttar Pradesh,North,2023,Jan,1,103724
+Uttar Pradesh,North,2023,Feb,2,74277
+Uttar Pradesh,North,2023,Mar,3,99953
+Uttar Pradesh,North,2023,Apr,4,88151
+Uttar Pradesh,North,2023,May,5,71369
+Uttar Pradesh,North,2023,Jun,6,37000
+Uttar Pradesh,North,2023,Jul,7,51722
+Uttar Pradesh,North,2023,Aug,8,42180
+Uttar Pradesh,North,2023,Sep,9,44588
+Uttar Pradesh,North,2023,Oct,10,45153
+Uttar Pradesh,North,2023,Nov,11,77947
+Uttar Pradesh,North,2023,Dec,12,87700
+Uttar Pradesh,North,2024,Jan,1,98988
+Uttar Pradesh,North,2024,Feb,2,100747
+Uttar Pradesh,North,2024,Mar,3,100242
+Uttar Pradesh,North,2024,Apr,4,109289
+Uttar Pradesh,North,2024,May,5,81698
+Uttar Pradesh,North,2024,Jun,6,34690
+Uttar Pradesh,North,2024,Jul,7,52133
+Uttar Pradesh,North,2024,Aug,8,60217
+Uttar Pradesh,North,2024,Sep,9,50479
+Uttar Pradesh,North,2024,Oct,10,40680
+Uttar Pradesh,North,2024,Nov,11,91846
+Uttar Pradesh,North,2024,Dec,12,110239
+Uttarakhand,North,2023,Jan,1,201106
+Uttarakhand,North,2023,Feb,2,178626
+Uttarakhand,North,2023,Mar,3,181796
+Uttarakhand,North,2023,Apr,4,243335
+Uttarakhand,North,2023,May,5,135645
+Uttarakhand,North,2023,Jun,6,112551
+Uttarakhand,North,2023,Jul,7,62950
+Uttarakhand,North,2023,Aug,8,94531
+Uttarakhand,North,2023,Sep,9,124468
+Uttarakhand,North,2023,Oct,10,84849
+Uttarakhand,North,2023,Nov,11,166054
+Uttarakhand,North,2023,Dec,12,224478
+Uttarakhand,North,2024,Jan,1,237733
+Uttarakhand,North,2024,Feb,2,203928
+Uttarakhand,North,2024,Mar,3,232646
+Uttarakhand,North,2024,Apr,4,271802
+Uttarakhand,North,2024,May,5,163596
+Uttarakhand,North,2024,Jun,6,113545
+Uttarakhand,North,2024,Jul,7,100576
+Uttarakhand,North,2024,Aug,8,88589
+Uttarakhand,North,2024,Sep,9,122325
+Uttarakhand,North,2024,Oct,10,90642
+Uttarakhand,North,2024,Nov,11,200548
+Uttarakhand,North,2024,Dec,12,268641
+West Bengal,East,2023,Jan,1,91754
+West Bengal,East,2023,Feb,2,70025
+West Bengal,East,2023,Mar,3,34258
+West Bengal,East,2023,Apr,4,31065
+West Bengal,East,2023,May,5,46152
+West Bengal,East,2023,Jun,6,41632
+West Bengal,East,2023,Jul,7,51663
+West Bengal,East,2023,Aug,8,49961
+West Bengal,East,2023,Sep,9,65770
+West Bengal,East,2023,Oct,10,96234
+West Bengal,East,2023,Nov,11,96880
+West Bengal,East,2023,Dec,12,105332
+West Bengal,East,2024,Jan,1,117124
+West Bengal,East,2024,Feb,2,72255
+West Bengal,East,2024,Mar,3,52312
+West Bengal,East,2024,Apr,4,59284
+West Bengal,East,2024,May,5,46406
+West Bengal,East,2024,Jun,6,41766
+West Bengal,East,2024,Jul,7,61709
+West Bengal,East,2024,Aug,8,53403
+West Bengal,East,2024,Sep,9,87095
+West Bengal,East,2024,Oct,10,119490
+West Bengal,East,2024,Nov,11,108846
+West Bengal,East,2024,Dec,12,98339
+Delhi,North,2023,Jan,1,46944
+Delhi,North,2023,Feb,2,50886
+Delhi,North,2023,Mar,3,56847
+Delhi,North,2023,Apr,4,42984
+Delhi,North,2023,May,5,40655
+Delhi,North,2023,Jun,6,21742
+Delhi,North,2023,Jul,7,22401
+Delhi,North,2023,Aug,8,20481
+Delhi,North,2023,Sep,9,24136
+Delhi,North,2023,Oct,10,22191
+Delhi,North,2023,Nov,11,37061
+Delhi,North,2023,Dec,12,50708
+Delhi,North,2024,Jan,1,54709
+Delhi,North,2024,Feb,2,62550
+Delhi,North,2024,Mar,3,57337
+Delhi,North,2024,Apr,4,52277
+Delhi,North,2024,May,5,38199
+Delhi,North,2024,Jun,6,28137
+Delhi,North,2024,Jul,7,24571
+Delhi,North,2024,Aug,8,35318
+Delhi,North,2024,Sep,9,33387
+Delhi,North,2024,Oct,10,19566
+Delhi,North,2024,Nov,11,40200
+Delhi,North,2024,Dec,12,59969
+Jammu and Kashmir,North,2023,Jan,1,78028
+Jammu and Kashmir,North,2023,Feb,2,65209
+Jammu and Kashmir,North,2023,Mar,3,69134
+Jammu and Kashmir,North,2023,Apr,4,86768
+Jammu and Kashmir,North,2023,May,5,60723
+Jammu and Kashmir,North,2023,Jun,6,42191
+Jammu and Kashmir,North,2023,Jul,7,25433
+Jammu and Kashmir,North,2023,Aug,8,27829
+Jammu and Kashmir,North,2023,Sep,9,28210
+Jammu and Kashmir,North,2023,Oct,10,39404
+Jammu and Kashmir,North,2023,Nov,11,47809
+Jammu and Kashmir,North,2023,Dec,12,71569
+Jammu and Kashmir,North,2024,Jan,1,85236
+Jammu and Kashmir,North,2024,Feb,2,74279
+Jammu and Kashmir,North,2024,Mar,3,85044
+Jammu and Kashmir,North,2024,Apr,4,73127
+Jammu and Kashmir,North,2024,May,5,66356
+Jammu and Kashmir,North,2024,Jun,6,41521
+Jammu and Kashmir,North,2024,Jul,7,32072
+Jammu and Kashmir,North,2024,Aug,8,43665
+Jammu and Kashmir,North,2024,Sep,9,37061
+Jammu and Kashmir,North,2024,Oct,10,41370
+Jammu and Kashmir,North,2024,Nov,11,59676
+Jammu and Kashmir,North,2024,Dec,12,84425

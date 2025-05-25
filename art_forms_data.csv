@@ -1,0 +1,30 @@
+art_form,type,state,popularity,description
+Bharatanatyam,Dance,Tamil Nadu,9.2,"Ancient classical dance from Tamil Nadu, known for its grace and sculptural poses"
+Kathakali,Dance,Kerala,8.8,Traditional dance-drama known for elaborate costumes and facial expressions
+Odissi,Dance,Odisha,8.9,One of the oldest surviving dance forms of India
+Kathak,Dance,Uttar Pradesh,9.0,Classical dance form that tells stories through rhythmic foot movements
+Manipuri,Dance,Manipur,8.5,Classical dance from Manipur characterized by gentle and graceful movements
+Carnatic,Music,Tamil Nadu,9.0,Classical music tradition of South India
+Hindustani,Music,Uttar Pradesh,9.1,Classical music tradition of North India
+Dhrupad,Music,Bihar,8.7,Ancient classical music form of North India
+Qawwali,Music,Delhi,8.6,Devotional music of the Sufis
+Madhubani,Painting,Bihar,8.5,Folk art from the Mithila region using natural dyes
+Tanjore,Painting,Tamil Nadu,8.6,Classical South Indian painting style using gold foil
+Warli,Painting,Maharashtra,8.4,Tribal art form using basic geometric shapes
+Gond,Painting,Madhya Pradesh,8.3,Traditional art of the Gond tribe
+Kalamkari,Painting,Andhra Pradesh,8.7,Hand-painted or block-printed cotton textile
+Yakshagana,Theatre,Karnataka,8.2,"Traditional theatre form combining dance, music, and dialogue"
+Chhau,Dance,West Bengal,8.4,Semi-classical dance with martial art movements
+Koodiyattam,Theatre,Kerala,8.1,Sanskrit theatre tradition
+Nautanki,Theatre,Uttar Pradesh,7.9,Folk theatre performance
+Bidri,Craft,Karnataka,8.3,Metal handicraft with silver inlay work
+Pashmina,Craft,Jammu and Kashmir,8.8,Fine cashmere wool textile
+Zardozi,Craft,Uttar Pradesh,8.5,Metallic thread embroidery
+Phulkari,Craft,Punjab,8.4,Traditional embroidery technique
+Bamboo Craft,Craft,Assam,8.0,Traditional bamboo crafting
+Thangka,Painting,Sikkim,8.2,Buddhist scroll painting
+Dokra,Craft,Chhattisgarh,8.1,Non-ferrous metal casting using lost-wax technique
+Pattachitra,Painting,Odisha,8.6,Traditional cloth-based scroll painting
+Puppetry,Theatre,Rajasthan,7.8,Traditional string puppet theatre
+Roghan,Painting,Gujarat,8.2,Traditional cloth painting using castor oil paste
+Tholu Bommalata,Theatre,Andhra Pradesh,7.9,Traditional leather puppet theatre
