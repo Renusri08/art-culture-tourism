@@ -22,9 +22,9 @@ def run():
     st.subheader("🖼️ Art Gallery")
 
     gallery_data = [
-        {"name": "Kathakali", "state": "Kerala", "file": "images/kathakkali.png"},
-        {"name": "Madhubani Painting", "state": "Bihar", "file": "images/madhubani.png"},
-        {"name": "Pattachitra", "state": "Odisha", "file": "images/pattachithra.png"},
+        {"name": "Kathakali", "state": "Kerala", "file": "kathakkali.png"},
+        {"name": "Madhubani Painting", "state": "Bihar", "file": "madhubani.png"},
+        {"name": "Pattachitra", "state": "Odisha", "file": "pattachithra.png"},
     ]
 
     img_cols = st.columns(3)
