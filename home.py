@@ -15,7 +15,7 @@ def run():
 
     with col1:
         st.markdown("<br><br>", unsafe_allow_html=True)
-        st.image("images/main.png", width=500)  # or your preferred size
+        st.image("main.png", width=500)  # or your preferred size
 
     with col2:
         st.markdown("""
