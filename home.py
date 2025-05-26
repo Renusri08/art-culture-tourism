@@ -1,3 +1,4 @@
+from PIL import Image
 import streamlit as st
 import pandas as pd
 import random
@@ -15,7 +16,8 @@ def run():
 
     with col1:
         st.markdown("<br><br>", unsafe_allow_html=True)
-        st.image("main.png", width=500)  # or your preferred size
+        img=Image.open("main.png")
+        st.image(img, width=500)  # or your preferred size
 
     with col2:
         st.markdown("""
