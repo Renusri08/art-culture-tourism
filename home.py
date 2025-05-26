@@ -2,6 +2,8 @@ from PIL import Image
 import streamlit as st
 import pandas as pd
 import random
+import os
+
 
 def run():
     # Load datasets
@@ -16,6 +18,8 @@ def run():
 
     with col1:
         st.markdown("<br><br>", unsafe_allow_html=True)
+        st.write("Current working directory:", os.getcwd())
+        st.write("Files in this directory:", os.listdir())
         img=Image.open("main.png")
         st.image(img, width=500)  # or your preferred size
 
