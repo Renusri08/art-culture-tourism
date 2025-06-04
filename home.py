@@ -58,7 +58,7 @@ def run():
     with col2:
         st.markdown("### 🏛️ Cultural Heritage sites")
         st.markdown("Discover India's heritage through geo-visual experiences.")
-        st.button("View Map", key="btn2", on_click=lambda: st.session_state.update({"main_nav_radio": "Cultural Heritage sites"}))
+        st.button("View Heritage sites", key="btn2", on_click=lambda: st.session_state.update({"main_nav_radio": "Cultural Heritage sites"}))
 
     with col3:
         st.markdown("### 🌿 Responsible Tourism")
