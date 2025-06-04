@@ -56,9 +56,9 @@ def run():
         st.button("Explore Art", key="btn1", on_click=lambda: st.session_state.update({"main_nav_radio": "Explore Art Forms"}))
 
     with col2:
-        st.markdown("### 🏛️ Cultural Heritage Map")
+        st.markdown("### 🏛️ Cultural Heritage sites")
         st.markdown("Discover India's heritage through geo-visual experiences.")
-        st.button("View Map", key="btn2", on_click=lambda: st.session_state.update({"main_nav_radio": "Cultural Heritage Map"}))
+        st.button("View Map", key="btn2", on_click=lambda: st.session_state.update({"main_nav_radio": "Cultural Heritage"}))
 
     with col3:
         st.markdown("### 🌿 Responsible Tourism")
